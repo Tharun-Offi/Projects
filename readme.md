@@ -61,12 +61,15 @@ Projects/
 ```
 
 ---
-## 📬 Author
+## 👨‍💻 Author
 
-**Paramesh Kumar Selvaraj**
-**Prathap Venkaatesan**
-**Purusothaman Rajan**
-**Tharun Murugavel**
+**Paramesh Kumar Selvaraj** – Final Year Engineering Student
+
+**Prathap Venkatesan** – Final Year Engineering Student
+
+**Purusothaman Rajan** – Final Year Engineering Student
+
+**Tharun Murugavel** – Final Year Engineering Student  
 
 ---
 
