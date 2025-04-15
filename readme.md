@@ -61,6 +61,14 @@ Projects/
 ```
 
 ---
+## 📬 Author
+
+**Paramesh Kumar Selvaraj**
+**Prathap Venkaatesan**
+**Purusothaman Rajan**
+**Tharun Murugavel**
+
+---
 
 ## 📬 Contact
 
